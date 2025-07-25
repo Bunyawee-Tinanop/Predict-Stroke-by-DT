@@ -28,10 +28,3 @@ The following models were implemented and evaluated:
 | Decision Tree              | **94.0**     |
 
 > **Decision Tree** achieved the highest accuracy and was selected as the final model for prediction.
-
-## 🚀 How to Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/stroke-prediction.git
-   cd stroke-prediction
